@@ -1,0 +1,2 @@
+Put the Oracle JDBC driver jar here (ojdbc11.jar, ojdbc8.jar or ojdbc6.jar).
+See README.md, Step 5.
